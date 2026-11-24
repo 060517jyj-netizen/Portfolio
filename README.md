@@ -24,7 +24,7 @@ Bachelor of Arts and Science, Double Major in Statistics and Economics (expected
 |---|---|---|---|
 | [SSU Data Dash 2026: Toronto Home-Price Prediction](projects/ssu-data-dash-2026/) | ML case competition | Nov 2026 | **3rd place** in finale ($300) · **1st** in Round 1 |
 | Market Insights Newsletter: NVIDIA | Independent project | Nov 2026 | 11-slide equity analysis |
-| Renewable Energy Development in African Countries | STA130 course project (R) | Mar 2026 | 54-country policy analysis |
+| [Renewable Energy Development in African Countries](projects/sta130-renewable-energy-africa/) | STA130 course project (R) | Mar 2026 | 54-country policy analysis |
 
 ### SSU Data Dash 2026: Toronto Home-Price Prediction
 **3rd Place, Final Round ($300 prize)** · [Project page →](projects/ssu-data-dash-2026/)
@@ -36,6 +36,7 @@ Bachelor of Arts and Science, Double Major in Statistics and Economics (expected
 - Analyzed NVIDIA's ~35% share-price drop after its CEO change and U.S. export curbs in an 11-slide newsletter, using Q3 earnings to assess short-term vs. structural risk.
 
 ### Renewable Energy Development in African Countries (STA130, UofT)
+[Project page →](projects/sta130-renewable-energy-africa/)
 - In a four-person team, analyzed how renewable-policy targets (wind, solar, storage, embedded generation) relate to installed capacity across **54 African countries** using Clean Air Task Force data in R.
 - Built target variables, visualizations, and summary tables. Countries with wind targets averaged **5.6× the installed capacity** of those without (581 vs. 103 MW).
 

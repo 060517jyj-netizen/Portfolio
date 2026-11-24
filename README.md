@@ -10,7 +10,7 @@ Statistics & Economics student at the **University of Toronto** who turns data i
 
 **University of Toronto**, Toronto, ON
 Bachelor of Arts and Science, Double Major in Statistics and Economics (expected June 2029)
-- Cumulative GPA 3.53 / 4.00 · International Merit Admission Award ($50,000)
+- International Merit Admission Award ($50,000)
 - Coursework: Microeconomic Theory, Macroeconomics, Probability & Statistics, Statistical Reasoning & Data Science, Linear Algebra, Multivariable Calculus, Python Programming
 
 **Yale Secondary School**, Abbotsford, BC (2022 – 2025)
